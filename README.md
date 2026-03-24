@@ -29,4 +29,5 @@ I am an Electrical & Computer Engineering Technology student at Purdue Universit
 
 ## 📬 Connect with Me
 LinkedIn: linkedin.com/in/jacob-fox017 
+
 Email: jdfox017@gmail.com
