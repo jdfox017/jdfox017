@@ -2,7 +2,6 @@
 
 I am an Electrical & Computer Engineering Technology student at Purdue University
 
----
 
 ## Technical Projects
 
@@ -27,7 +26,6 @@ I am an Electrical & Computer Engineering Technology student at Purdue Universit
 • Executed hardware-level I/O mapping to bridge internal logic states to physical toggle switches and LED arrays for
   real-time tracking and visual data feedback.
 
----
 
 ## Connect with Me
 LinkedIn: linkedin.com/in/jacob-fox017
