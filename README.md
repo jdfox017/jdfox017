@@ -1,6 +1,6 @@
 # **Hello, I'm Jacob Fox**
 
-I'm an Electrical & Computer Engineering Technology student at Purdue University who enjoys building projects and exploring how hardware, software, and AI connect. Currently gaining experience with agentic AI and digital presales through my internship at Presidio.
+I'm an Electrical & Computer Engineering Technology student at Purdue University who enjoys building projects and exploring how hardware, software, and AI connect. 
 
 I’m always looking for opportunities to grow, work with others, try new tools, and apply what I’m learning to real-world problems.
 
